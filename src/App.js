@@ -5,6 +5,8 @@ import Chat from './components/Chat'
 import immer from 'immer';
 import './App.css';
 
+//TEST
+
 const initialMessageState = {
   general: [],
   random: [],
